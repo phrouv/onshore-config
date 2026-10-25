@@ -1,0 +1,9 @@
+server:
+  port: 5008
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/onshore_admin_db
+    username: postgres
+    password: arpad5
+

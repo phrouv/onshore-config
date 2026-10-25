@@ -1,0 +1,9 @@
+server:
+  port: 5004
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/onshore_partner_db
+    username: postgres
+    password: arpad5
+

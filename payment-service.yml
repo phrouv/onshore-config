@@ -1,0 +1,9 @@
+server:
+  port: 5002
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/onshore_payment_db
+    username: postgres
+    password: arpad5
+
